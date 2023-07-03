@@ -19,7 +19,7 @@ Check out the [demo page](https://your-domain.com/demo) to see Scrolo in action.
 1. Include the Scrolo library in your HTML file:
 
    ```html
-   <script src="[https://cdn.jsdelivr.net/gh/your-username/scrolo@main/scrolo.js](https://cdn.jsdelivr.net/gh/swerce/scrolo@main/scrolo.js)"></script>
+   <script src="https://cdn.jsdelivr.net/gh/swerce/scrolo@main/scrolo.js"></script>
    ```
 
 2. Initialize Scrolo by creating a new instance with your desired options:
